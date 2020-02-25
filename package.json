@@ -1,0 +1,15 @@
+{
+  "name": "nano-mvc-framework",
+  "version": "1.0.0",
+  "description": "A UI Framework",
+  "main": "nano-mvc.js",
+  "scripts": {
+    "start": "live-server . --no-browser "
+  },
+  "author": "Nano",
+  "license": "ISC",
+  "dependencies": {
+    "jsx-to-html": "^1.1.0",
+    "live-server": "^1.2.1"
+  }
+}
