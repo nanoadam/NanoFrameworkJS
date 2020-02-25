@@ -1,6 +1,10 @@
 # Nano UI Framework
 
-**NOTE: CURRENT CODE IS BROKEN. FRAMEWORK MAY NOT WORK AS EXPECTED**
+**`NOTE`: CURRENT CODE IS BROKEN. FRAMEWORK MAY NOT WORK AS EXPECTED**
+
+**`NOTE`: Please submit a `issue` for every issue that is found so I can be aware of it as soon as possible.**
+
+**`FEATURE REQUEST`: If you want a feature request, submit an issue with the title saying: `FEATURE` so I know that the issue is regarding a feature.**
 
 ## Installation
 
@@ -33,7 +37,7 @@ The Create Component function takes in three params.
 2. Any Classes
 3. The Content
 
-Example:
+`Example`:
 
 ```js
 Component.createComponent('h1', 'text-large-class', 'This is some content');
