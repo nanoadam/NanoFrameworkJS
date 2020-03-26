@@ -1,23 +1,10 @@
 {
-  "name": "nano-mvc-framework",
-  "version": "1.0.0",
-  "description": "",
+  "name": "NanoFramework",
+  "version": "0.0.1",
+  "description": "JavaScript Framework",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nanoproductions/NanoFrameworkJS.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nanoproductions/NanoFrameworkJS/issues"
-  },
-  "homepage": "https://github.com/nanoproductions/NanoFrameworkJS#readme",
-  "devDependencies": {
-    "parcel-bundler": "^1.12.4"
-  }
+  "repository": "https://github.com/nanoproductions/NanoFrameworkJS.git",
+  "author": "Nano Adam",
+  "license": "MIT",
+  "dependencies": {}
 }
